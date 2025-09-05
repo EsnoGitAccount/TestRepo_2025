@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+void randomFunction(){
+    return 5;
+}
+
 int main (void)
 {
 
