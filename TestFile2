@@ -3,6 +3,6 @@
 int main (void)
 {
 
-int blah = 5;
+int number = 5;
 
 }
